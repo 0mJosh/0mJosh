@@ -1,5 +1,5 @@
 - Hi, I’m @0mJosh
-- I’m interested in finding my niche in CS. 
+- I love solving complex problems with critical thinking and advanced algorithms! 
 - I’m currently learning Java and R.
 - Also, I have experience in Python, HTML, and CSS as well.
 
